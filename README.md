@@ -1,5 +1,7 @@
 # Computed Knowledge SEO
 
+> Part of [Marketing Skills](https://marketingskills.net/skills/computed-knowledge-seo/) — open-source marketing operators for AI agents.
+
 **Build search visibility by creating facts that did not exist until you computed them.**
 
 Computed Knowledge SEO is an Agent Skill for designing SEO and AEO systems around **novel, defensible knowledge produced from multiple datasets** rather than one-dimensional directories, generic information articles, or LLM-generated filler.
