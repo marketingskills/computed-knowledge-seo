@@ -115,6 +115,29 @@ The LLM may draft the article, but provide it:
 
 Do not ask it to fill knowledge gaps from memory when the site’s value proposition is grounded data.
 
+## Audience fit and distribution role
+
+Do not assume traffic potential equals *relevant audience*. Tag every keyword cluster with:
+
+- the most likely searcher and professional/consumer task;
+- whether the intent is broad exploration, specialist research, tool use, comparison, or an entity-specific answer;
+- whether that visitor is relevant to the site's actual knowledge and utility;
+- whether a new computed fact improves the answer;
+- the source and date of the search-demand estimate.
+
+Maintain separate forecasts for **all estimated organic traffic** and **audience-qualified organic traffic**. A page ranking for a broad ambiguous query can dominate top-line traffic while being weakly relevant.
+
+Distinguish content distribution roles:
+
+- **Evergreen computed answers:** existing search-demand capture.
+- **Useful tools / calculators:** task-driven repeat use and linkable utility.
+- **Original research:** discoveries, citations, coverage and earned links, even where query volume is low.
+- **Machine-readable data:** direct retrieval and agent integrations.
+
+These modes can share one underlying knowledge system, but should not be judged by identical KPIs. A large original-study backlink count does not prove the study caused rankings on other pages.
+
+For a concrete audit, see [Detailed.com: search-demand and citation-led research case study](../case-studies/DETAILED-COM.md).
+
 ## Demand is not factual evidence
 
 Keyword volume can decide **what to investigate and publish**.
