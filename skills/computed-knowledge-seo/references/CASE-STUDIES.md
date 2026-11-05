@@ -4,6 +4,31 @@ These examples are not instructions to copy another site’s scoring system. Use
 
 ## Positive patterns
 
+### Detailed.com — separate qualified evergreen demand from citation-led research
+
+Detailed.com combines search-driven niche rankings and SEO utilities with original research that resolves publisher ownership, measures SERP composition, tracks public-company performance and observes AI answer volatility over time.
+
+**Key distinction:** its traffic-driving pages, its specialist professional pages and its link-earning research reports do different jobs. A keyword with high volume may attract the wrong audience; an original computed finding may earn many citations but little direct search traffic. Do not confuse total estimated visits with qualified demand.
+
+**Lessons**
+
+- Build and refresh the knowledge asset before deciding which pages and tools to publish.
+- Validate query intent and intended audience separately from headline keyword volume.
+- Distinguish repeatable search-answer pages, tools and one-off research reports.
+- Use careful provenance, cohort definitions and uncertainty for entity joins and longitudinal studies.
+- Avoid assuming its older ranking methodology is still current or that backlink correlation proves causation.
+
+**Detailed breakdown:** [Detailed.com case study, including November 2026 Semrush keyword-pattern audit](../case-studies/DETAILED-COM.md).
+
+Sources:
+- https://detailed.com/google-control/
+- https://detailed.com/ai-volatility/
+- https://detailed.com/revenue/
+- https://detailed.com/50/
+
+---
+
+
 ### Walk Score — create a new address-level fact
 
 **Inputs**
