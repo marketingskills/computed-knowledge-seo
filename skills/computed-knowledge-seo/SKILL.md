@@ -462,7 +462,7 @@ Reject:
 
 ## Real-world pattern tests
 
-Read **references/CASE-STUDIES.md** for the full examples.
+Read **references/CASE-STUDIES.md** for the pattern examples. For a worked example comparing original research, search-demand capture, and audience-qualified keyword patterns, read **case-studies/DETAILED-COM.md**.
 
 Use these shorthand tests:
 
@@ -475,6 +475,7 @@ Use these shorthand tests:
 7. **GreatSchools test — Are assumptions hidden inside a magic score?**
 8. **CrimeGrade test — Are the compared measurements genuinely comparable?**
 9. **Zestimate test — Is model uncertainty visible?**
+10. **Detailed.com test — Are you distinguishing qualified search demand, practical utilities, and original citation-worthy findings?**
 
 ## Example — AI company intelligence
 
