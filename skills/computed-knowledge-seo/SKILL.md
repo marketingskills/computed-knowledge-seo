@@ -400,6 +400,10 @@ Track:
 
 Use first-party observations to improve the dataset over time.
 
+## Continuous execution on an existing site
+
+Use the companion [Keyword-Led Compounding Engineering skill](../keyword-led-compounding-engineering/SKILL.md) to turn this strategy into a persistent engineering campaign. Select one high-value keyword, benchmark its real user task, improve reusable systems, verify cross-page benefits and automatic refresh, and advance only after the quality gate passes. Preserve all grounding, rights and publication rules above.
+
 ## Information-gain ladder
 
 Prefer opportunities further down this ladder when they remain valid and useful:
