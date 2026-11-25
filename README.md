@@ -38,6 +38,14 @@ npx skills add marketingskills/computed-knowledge-seo --list
 
 The repository follows the open Agent Skills convention, so it can be installed into compatible coding agents supported by the `skills` CLI.
 
+## Companion skill: Keyword-Led Compounding Engineering
+
+Use [keyword-led-compounding-engineering](skills/keyword-led-compounding-engineering/SKILL.md) to apply Computed Knowledge SEO to an existing product: choose one important keyword, benchmark the user task, improve shared systems until the target meets a measurable quality gate, verify spillover across other pages, and automate freshness before advancing.
+
+```bash
+npx skills add marketingskills/computed-knowledge-seo --skill keyword-led-compounding-engineering -y
+```
+
 ## What the skill teaches
 
 Computed Knowledge SEO treats SEO/AEO as a **data-product problem**:
@@ -124,6 +132,8 @@ skills/
       GRAPH-AND-GROUNDING.md
       KEYWORD-DEMAND.md
       TYPESAFE-AI.md
+  keyword-led-compounding-engineering/
+    SKILL.md
 LICENSE
 README.md
 ```
